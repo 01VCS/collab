@@ -1,1 +1,3 @@
-- use pijul instead of git as default
+- use 01 as default
+
+01 collab integrate gitlab into Plasmmer Accounts; hook identify new collab's gitlab CMS repo then sync this repo with 01/ipfvcs
